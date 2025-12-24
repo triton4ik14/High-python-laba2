@@ -1,0 +1,83 @@
+[
+  {
+    "h": 0.1,
+    "epsilon": 0.1,
+    "iterations": 20,
+    "time": 0.0010543999960646033,
+    "final_error": 0.09016533798406812,
+    "grid_size": 11,
+    "method": "pure_python"
+  },
+  {
+    "h": 0.1,
+    "epsilon": 0.01,
+    "iterations": 34,
+    "time": 0.0017662999889580533,
+    "final_error": 0.009372314427642081,
+    "grid_size": 11,
+    "method": "pure_python"
+  },
+  {
+    "h": 0.1,
+    "epsilon": 0.001,
+    "iterations": 56,
+    "time": 0.0031029000092530623,
+    "final_error": 0.0009341500235393596,
+    "grid_size": 11,
+    "method": "pure_python"
+  },
+  {
+    "h": 0.01,
+    "epsilon": 0.1,
+    "iterations": 141,
+    "time": 0.8383433000126388,
+    "final_error": 0.0992938134556951,
+    "grid_size": 101,
+    "method": "pure_python"
+  },
+  {
+    "h": 0.01,
+    "epsilon": 0.01,
+    "iterations": 824,
+    "time": 4.873447900012252,
+    "final_error": 0.009999691366564534,
+    "grid_size": 101,
+    "method": "pure_python"
+  },
+  {
+    "h": 0.01,
+    "epsilon": 0.001,
+    "iterations": 2070,
+    "time": 12.516491700007464,
+    "final_error": 0.000998847953116666,
+    "grid_size": 101,
+    "method": "pure_python"
+  },
+  {
+    "h": 0.005,
+    "epsilon": 0.1,
+    "iterations": 158,
+    "time": 3.937888300002669,
+    "final_error": 0.09961706560569539,
+    "grid_size": 201,
+    "method": "pure_python"
+  },
+  {
+    "h": 0.005,
+    "epsilon": 0.01,
+    "iterations": 1226,
+    "time": 29.311051500000758,
+    "final_error": 0.009993137282023667,
+    "grid_size": 201,
+    "method": "pure_python"
+  },
+  {
+    "h": 0.005,
+    "epsilon": 0.001,
+    "iterations": 5059,
+    "time": 124.3479398000054,
+    "final_error": 0.000999771861158294,
+    "grid_size": 201,
+    "method": "pure_python"
+  }
+]

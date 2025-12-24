@@ -1,0 +1,32 @@
+[
+  {
+    "h": 0.1,
+    "epsilon": 0.01,
+    "grid_size": 11,
+    "python_time": 0.0017937000084202737,
+    "cpp_time": 2.2799998987466097e-05,
+    "speedup": 78.67105649462218,
+    "python_iterations": 34,
+    "cpp_iterations": 34
+  },
+  {
+    "h": 0.01,
+    "epsilon": 0.001,
+    "grid_size": 101,
+    "python_time": 12.097168200009037,
+    "cpp_time": 0.05011670000385493,
+    "speedup": 241.37998310101293,
+    "python_iterations": 2070,
+    "cpp_iterations": 2070
+  },
+  {
+    "h": 0.005,
+    "epsilon": 0.001,
+    "grid_size": 201,
+    "python_time": 118.53895919999923,
+    "cpp_time": 0.5373116999980994,
+    "speedup": 220.6148855504515,
+    "python_iterations": 5059,
+    "cpp_iterations": 5059
+  }
+]

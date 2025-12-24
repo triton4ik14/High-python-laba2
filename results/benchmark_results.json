@@ -1,0 +1,38 @@
+[
+  {
+    "h": 0.1,
+    "grid_size": 11,
+    "time_python": 0.006233899999642745,
+    "time_numba": 4.7900000936351717e-05,
+    "speedup": 130.1440475528631,
+    "iterations_python": 79,
+    "iterations_numba": 79
+  },
+  {
+    "h": 0.05,
+    "grid_size": 21,
+    "time_python": 0.07615100000111852,
+    "time_numba": 0.0001632999919820577,
+    "speedup": 466.32580367478204,
+    "iterations_python": 283,
+    "iterations_numba": 283
+  },
+  {
+    "h": 0.02,
+    "grid_size": 51,
+    "time_python": 2.0548567000078037,
+    "time_numba": 0.004783300013514236,
+    "speedup": 429.5897589953017,
+    "iterations_python": 1372,
+    "iterations_numba": 1372
+  },
+  {
+    "h": 0.01,
+    "grid_size": 101,
+    "time_python": 24.66135989999748,
+    "time_numba": 0.06943239999236539,
+    "speedup": 355.18518591765775,
+    "iterations_python": 4164,
+    "iterations_numba": 4164
+  }
+]

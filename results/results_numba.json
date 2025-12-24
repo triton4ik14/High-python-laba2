@@ -1,0 +1,83 @@
+[
+  {
+    "h": 0.1,
+    "epsilon": 0.1,
+    "iterations": 20,
+    "time": 8.789999992586672e-05,
+    "final_error": 0.09016533798406812,
+    "grid_size": 11,
+    "method": "numba"
+  },
+  {
+    "h": 0.1,
+    "epsilon": 0.01,
+    "iterations": 34,
+    "time": 3.1100003980100155e-05,
+    "final_error": 0.009372314427640305,
+    "grid_size": 11,
+    "method": "numba"
+  },
+  {
+    "h": 0.1,
+    "epsilon": 0.001,
+    "iterations": 56,
+    "time": 3.949999518226832e-05,
+    "final_error": 0.0009341500235393596,
+    "grid_size": 11,
+    "method": "numba"
+  },
+  {
+    "h": 0.01,
+    "epsilon": 0.1,
+    "iterations": 141,
+    "time": 0.0024520000006305054,
+    "final_error": 0.09929381345569155,
+    "grid_size": 101,
+    "method": "numba"
+  },
+  {
+    "h": 0.01,
+    "epsilon": 0.01,
+    "iterations": 824,
+    "time": 0.014012999992701225,
+    "final_error": 0.009999691366562757,
+    "grid_size": 101,
+    "method": "numba"
+  },
+  {
+    "h": 0.01,
+    "epsilon": 0.001,
+    "iterations": 2070,
+    "time": 0.03511939999589231,
+    "final_error": 0.000998847953116666,
+    "grid_size": 101,
+    "method": "numba"
+  },
+  {
+    "h": 0.005,
+    "epsilon": 0.1,
+    "iterations": 158,
+    "time": 0.011941499993554316,
+    "final_error": 0.09961706560569894,
+    "grid_size": 201,
+    "method": "numba"
+  },
+  {
+    "h": 0.005,
+    "epsilon": 0.01,
+    "iterations": 1226,
+    "time": 0.09392159999697469,
+    "final_error": 0.009993137282023667,
+    "grid_size": 201,
+    "method": "numba"
+  },
+  {
+    "h": 0.005,
+    "epsilon": 0.001,
+    "iterations": 5059,
+    "time": 0.37809220000053756,
+    "final_error": 0.000999771861158294,
+    "grid_size": 201,
+    "method": "numba"
+  }
+]
